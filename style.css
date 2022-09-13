@@ -1,0 +1,63 @@
+.navbar-brand{
+    padding-left: 15%;
+ 
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item:hover{
+    color: rgba(199, 193, 22, 0.801);
+}
+.phone{
+    height: 100%;
+    width: 100%;
+}
+.phone-img{
+    width: 100%;
+    height: 100%;
+    transform: all .5s ease;
+    
+}
+#phone-section{
+    overflow: hidden;
+}
+.phone-section-img{
+    overflow: hidden;
+}
+.phone-section-img:hover .phone-img{
+    transform: scale(1.15);
+}
+.list-section ul{
+    list-style: none;
+}
+.a-tag{
+    text-decoration: none;
+    color: rgb(119, 109, 109);
+}
+.custom-follow ul
+{
+  list-style: none;
+}
+.custom-follow a
+{
+  text-decoration: none;
+  color: black;
+}
+
+.a-tag:hover{
+    color: orange;
+}
+.custom-follow a:hover
+{
+  color: orange;
+}
+#footer{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
