@@ -59,5 +59,18 @@
 }
 
 
+@media only screen and (min-width:992px) and (max-width:1377px){
+    .navbar-nav{
+        text-align: center;
+        font-size:7px;
+        font-weight: 600;
+        line-height: 0.7;
+        padding-top: 10px;
+        margin: 0%;
+    }
+  }
+ 
+
+
 
 
